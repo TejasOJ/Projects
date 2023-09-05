@@ -1,0 +1,30 @@
+
+.flex{
+    display: flex;
+}
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.semibold{
+    font-weight:bolder;
+}
+.spacebetween{
+    justify-content: space-between;
+}
+.mx-2{
+    margin-left:12px;
+    margin-right:12px;
+}
+.section1{
+    background-color:#fcf7f7;
+    height: 100%;
+}
+.a{
+    text-decoration: none;
+}
